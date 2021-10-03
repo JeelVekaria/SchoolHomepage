@@ -1,0 +1,56 @@
+.body{
+    /* background-color:rgb(48, 27, 6); */
+    background-image: url("Ani.gif");
+    /* background-image: url("assets//Wall.jpg"); */
+    /* Scales and sets the wallpaper */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Kanit', sans-serif; */
+}
+.test{
+    color:blue; 
+    font-size: 100px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+.head{
+    color:rgb(255, 255, 255); 
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+    font-family: 'Acme', sans-serif;
+}
+.head2{
+    color:rgb(255, 255, 255); 
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 900px;
+    font-family: 'Acme', sans-serif;
+}
+.push{
+    margin-left:20px;
+}
+.push2{
+    position: absolute;
+    top:80px;
+    right:35px;
+}
+.push3{
+    position: absolute;
+    top:245px;
+    right:35px;
+}
+.push4{
+    position: absolute;
+    top:410px;
+    right:35px;
+}
+.push5{
+    position: absolute;
+    top:575px;
+    right:35px;
+}
